@@ -1,0 +1,6 @@
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Models\bin\Debug\Connor.Bohlin.Models.dll
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Models\bin\Debug\Connor.Bohlin.Models.pdb
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Models\obj\Debug\Connor.Bohlin.Models.csproj.AssemblyReference.cache
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Models\obj\Debug\Connor.Bohlin.Models.csproj.CoreCompileInputs.cache
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Models\obj\Debug\Connor.Bohlin.Models.dll
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Models\obj\Debug\Connor.Bohlin.Models.pdb

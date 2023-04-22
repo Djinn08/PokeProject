@@ -1,0 +1,16 @@
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\obj\Debug\Connor.Bohlin.Winapp.csproj.AssemblyReference.cache
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\obj\Debug\Connor.Bohlin.Winapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\obj\Debug\Connor.Bohlin.Winapp.AddPokemon.resources
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\obj\Debug\Connor.Bohlin.Winapp.Properties.Resources.resources
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\obj\Debug\Connor.Bohlin.Winapp.csproj.GenerateResource.cache
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\obj\Debug\Connor.Bohlin.Winapp.csproj.CoreCompileInputs.cache
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\bin\Debug\Connor.Bohlin.Winapp.exe.config
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\bin\Debug\Connor.Bohlin.Winapp.exe
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\bin\Debug\Connor.Bohlin.Winapp.pdb
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\obj\Debug\Connor.Bohlin.Winapp.exe
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\obj\Debug\Connor.Bohlin.Winapp.pdb
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\bin\Debug\Connor.Bohlin.Bizlogic.dll
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\bin\Debug\Connor.Bohlin.Models.dll
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\bin\Debug\Connor.Bohlin.Bizlogic.pdb
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\bin\Debug\Connor.Bohlin.Models.pdb
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Winapp\obj\Debug\Connor.Bohlin.Winapp.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Bizlogic\bin\Debug\Connor.Bohlin.Bizlogic.dll
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Bizlogic\bin\Debug\Connor.Bohlin.Bizlogic.pdb
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Bizlogic\bin\Debug\Connor.Bohlin.Models.dll
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Bizlogic\bin\Debug\Connor.Bohlin.Models.pdb
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Bizlogic\obj\Debug\Connor.Bohlin.Bizlogic.csproj.AssemblyReference.cache
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Bizlogic\obj\Debug\Connor.Bohlin.Bizlogic.csproj.CoreCompileInputs.cache
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Bizlogic\obj\Debug\Connor.Bohlin.Bizlogic.csproj.CopyComplete
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Bizlogic\obj\Debug\Connor.Bohlin.Bizlogic.dll
+C:\Users\vgebo\Documents\Morphis.bot\Connor.Bohlin\Connor.Bohlin.Bizlogic\obj\Debug\Connor.Bohlin.Bizlogic.pdb
